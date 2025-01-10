@@ -4,7 +4,7 @@
 This repository demonstrates the use of autoencoders for image reconstruction and compares their performance with Principal Component Analysis (PCA). The notebook explores how these methods handle dimensionality reduction and reconstruction using the MNIST dataset.
 
 ## Files
-- **tp8_1.ipynb**: Jupyter Notebook containing the implementation and visualizations.
+- **Autoencoder_vs_PCA.ipynb**: Jupyter Notebook containing the implementation and visualizations.
 
 ## Key Features
 - Implementation of an autoencoder using PyTorch.
